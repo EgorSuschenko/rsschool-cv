@@ -10,6 +10,8 @@ I am a man of a different interests. Solving interesting tasks and challenges is
 ## Skills:
  Have been using C++, Java. A little HTML and CSS.The only skill measure I have is a mark in my student book, unfortunatly. Also some time ago I finished HTML course on codeacademy ([my account on codeacademy](https://www.codecademy.com/profiles/UncleTolic)).
 
+## Education:
 I am studying in BSU on Radiophysics faculty (*aerospace department*). As I already told completed HTML course on codeacademy.
 
+## English:
 I've been studying English since first grade of my school. Now I'm working more on my vocabulary, mostly by reading bofiction books and educational literature.
