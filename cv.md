@@ -1,8 +1,8 @@
 *Name:* Egor
 *Surname:* Sushchenko
-###Contact info:
-*E-Mail: egorsuschenko08@gmail.com; 
-*Phone number: +375297544007 (telegram account on this number).
+### Contact info:
+*E-Mail:* egorsuschenko08@gmail.com; 
+*Phone number:* +375297544007 (telegram account on this number).
 
 I am a man of a different interests. Solving interesting tasks and challenges is my life moto. If I'm on to something - I'll do my best to finish it. Even though I don't have a lot of expereince in codding, my university gives me a great opportunity to study different programming languages and practice them in my free time. I belive that with time and right guidence I'll be able to work well in IT industry.
 
